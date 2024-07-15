@@ -20,5 +20,7 @@ Also Staff Of [DRP DISCORD](https://discord.gg/U8VYKVX4CC)
 
 ![AG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGSCRIPTS&show_icons=true&theme=transparent)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AGSCRIPTS)](https://git.io/streak-stats)
+
 ![images](https://github.com/AGSCRIPTS/AGSCRIPTS/assets/118326183/94194703-5513-42fa-8be5-1f110c6669f9)
 
