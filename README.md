@@ -15,7 +15,7 @@ Also Staff Of [DRP DISCORD](https://discord.gg/U8VYKVX4CC)
 - [RAGEGAMING](https://github.com/Rage-Gaming)
 * [OPTAXER](https://github.com/OPTAXER)
 
-  DRP OFFICIAL SCRIPTS PAGE
+  **DRP OFFICIAL SCRIPTS PAGE**
   https://drp.tebex.io
 
 ![AG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGSCRIPTS&show_icons=true&theme=transparent)
