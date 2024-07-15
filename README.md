@@ -17,6 +17,7 @@ Also Staff Of [DRP DISCORD](https://discord.gg/U8VYKVX4CC)
 
   **DRP OFFICIAL SCRIPTS PAGE**
   https://drp.tebex.io
+  [DM DEVELOPMENTS DISCORD](https://discord.gg/S7kvVKM5Mf)
 
 ![AG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGSCRIPTS&show_icons=true&theme=transparent)
 
