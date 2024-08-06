@@ -16,7 +16,7 @@ Also Staff Of [DRP DISCORD](https://discord.gg/U8VYKVX4CC)
 * [OPTAXER](https://github.com/OPTAXER)
 
   **DRP OFFICIAL SCRIPTS PAGE**
-  https://drp.tebex.io
+  https://dmdevs.tebex.io
 
   [DM DEVELOPMENTS DISCORD](https://discord.gg/S7kvVKM5Mf)
 
