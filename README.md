@@ -20,7 +20,7 @@ Also Staff Of [DRP DISCORD](https://discord.gg/U8VYKVX4CC)
 
   [DM DEVELOPMENTS DISCORD](https://discord.gg/S7kvVKM5Mf)
 
-  ![My Discord](https://discord-readme-badge.vercel.app/api?id=<840527412273086504>)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/840527412273086504?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/840527412273086504)
 
 ![AG's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGSCRIPTS&show_icons=true&theme=transparent)
 
