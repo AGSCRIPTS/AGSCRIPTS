@@ -3,15 +3,13 @@
 
 ![](https://komarev.com/ghpvc/?username=AGSCRIPTS)
 
-Also Staff Of [DRP DISCORD](https://discord.gg/U8VYKVX4CC)
-
-![DRP_Animated_logo](https://github.com/AGSCRIPTS/AGSCRIPTS/assets/118326183/b3b43de0-7755-4652-b1f5-a7d59d8ad7e4)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AGSCRIPTS&show_icons=true&theme=dark&title_color=00ffcc&text_color=0beefe&bg_color=070707&hide_border=true&locale=en&layout=compact" alt="AGSCRIPTS" /></p>
 
 
 **MY Inspration**
+  [AdershM](https://github.com/adhershmnair)
 - [RAGEGAMING](https://github.com/Rage-Gaming)
 * [OPTAXER](https://github.com/OPTAXER)
 
